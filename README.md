@@ -1,7 +1,7 @@
 ## Hi there 👋
-Walter here. I'm a software engineer, interested in everything but my speciality is web applications. Also working as instructor at [Clarusway](https://clarusway.com/) and as software engineer at [SOMEWHERE ELSE](https://somewhere.com/) 
+Sam here. I'm a software engineer, interested in everything but my speciality is web applications. Also working as instructor at [Clarusway](https://clarusway.com/) and as software engineer at [SOMEWHERE ELSE](https://somewhere.com/) 
 
-<img src="https://raw.githubusercontent.com/ezranbayantemur/ezranbayantemur/master/animation_500_kd7ngokt.gif" alt="react-native" width=200 height=200 align="right">
+<img src="https://gph.is/g/Z21vkeA" alt="react-native" width=200 height=200 align="right">
 
 ### What I'm use? 🛠  
 I prefer React & React Native for web/mobile front-end, Django technologies for back-end development but I love everything about JS and Python!
