@@ -9,6 +9,6 @@ Knowledge should spread! 💪
 
 <a href="https://spotify-snippet.vercel.app/whatiamlistening?open">
     <img src="https://spotify-snippet.vercel.app/whatiamlistening" width="456" height="120" alt="Now Playing">
-</a>
+
 
 
