@@ -11,5 +11,4 @@ Knowledge should spread! 💪
     <img src="https://spotify-snippet.vercel.app/whatiamlistening" width="456" height="120" alt="Now Playing">
 </a>
 
-<a href="https://twitter.com/waltercw" target="_blank">
-    <img src="https://img.shields.io/badge/%20-tw
+
