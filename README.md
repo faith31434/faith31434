@@ -1,11 +1,8 @@
 ## Hi there 👋
-Sam here. I'm a software engineer, interested in everything but my speciality is web applications. Also working as instructor at [Clarusway](https://clarusway.com/) and as software engineer at [SOMEWHERE ELSE](https://somewhere.com/) 
+Sam here. I'm a software engineer, interested in everything but my speciality is AWS & DevOps. Also working as software engineer at [Nioyatech] (nioyatech.com)
 
 <img src="https://media.giphy.com/media/n6mEMqAuYOQ8l8qcEE/giphy.gif" alt="react-native" width=200 height=200 align="right">
 
-### What I'm use? 🛠  
-I prefer React & React Native for web/mobile front-end, Django technologies for back-end development but I love everything about JS and Python!
-<br/> 
 
 You may find some experimental and forked projects on my repos, feel free to contribute or using them.
 Knowledge should spread! 💪
